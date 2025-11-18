@@ -110,6 +110,7 @@ Adjacency Matrix for the above graph ⬆️ \
 | D   | 1   | 1   | 1   | 0   | 0   |
 | E   | 0   | 1   | 1   | 0   | 0   |
 
+*Adjacency Matrices are symmetrix across the main diagonal (principal diagonal).*
 
 ## Exercises
 1. Give all possible connected graphs with 4 vertices. Exclude different [isomorphs](https://en.wikipedia.org/wiki/Graph_isomorphism)—one of each of the isomorphs is good.
